@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904838986491",
+    "firebase_url": "https://tubitak2020test3.firebaseio.com",
+    "project_id": "tubitak2020test3",
+    "storage_bucket": "tubitak2020test3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904838986491:android:d208e44c99649ff5304e5e",
+        "android_client_info": {
+          "package_name": "com.cesebe.tubitak2020test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904838986491-fsqn6e23qhlh3h250md19pufl40hfjn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cesebe.tubitak2020test2",
+            "certificate_hash": "f45defec0666ede0caf1436dbac791d272cd2aed"
+          }
+        },
+        {
+          "client_id": "904838986491-42l41o3vskgk88hrm3t67l743c9oefng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRheq_-_VurgKyvn2tPXOnXWFGVpghSZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904838986491-42l41o3vskgk88hrm3t67l743c9oefng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
